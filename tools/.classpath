@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="src/cn/zhou/jdbcutils/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/cn/zhou/c3p0utils/c3p0-0.9.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/cn/zhou/c3p0utils/commons-beanutils-1.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/cn/zhou/c3p0utils/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/cn/zhou/c3p0utils/commonutils.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/cn/zhou/utils/mydbutils/commons-dbutils-1.7.jar"/>
+	<classpathentry kind="lib" path="src/cn/zhou/mailutils/mail.jar"/>
+	<classpathentry kind="lib" path="src/cn/zhou/mailutils/activation.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

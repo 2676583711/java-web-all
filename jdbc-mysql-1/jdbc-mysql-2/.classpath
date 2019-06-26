@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-9.0.4">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="src/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="src/jdbcutils-2.0.jar"/>
+	<classpathentry kind="lib" path="src/connections_pool/commons-dbcp2-2.2.0.jar"/>
+	<classpathentry kind="lib" path="src/connections_pool/commons-pool2-2.5.0.jar"/>
+	<classpathentry kind="lib" path="src/connections_pool/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="src/c3p0_connectionspool/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="src/c3p0_connectionspool/c3p0utils.jar"/>
+	<classpathentry kind="lib" path="src/dbutils/commons-dbutils-1.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
